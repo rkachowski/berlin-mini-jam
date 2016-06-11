@@ -1,6 +1,6 @@
 # non violent communication
+![Alt text](/bmj-0616/extreme-concept.jpg?raw=true)
 
-move a thing around and stop it from hitting the angry red dudes
+stop your dog from getting tazered through the power of meat
 
-made (badly) in unity
-with @steffischuetze
+(badly) made in unity with @steffischuetze
