@@ -6,11 +6,13 @@ public class BaddieScript : MonoBehaviour
 {
     public int numberOfPoints = 18;
     List<Vector3> points;
-
+    
+    [Range(0.0f, 1f)]
     public float radius = 1;
     private LineRenderer _lineRenderer;
 
-    public float jitterIntensity = 0.2f;
+    [Range(0.0f, 0.5f)]
+    public float jitterIntensity = 0.03f;
     void Start()
     {
         _lineRenderer = gameObject.AddComponent<LineRenderer>();
