@@ -1,0 +1,4 @@
+NUGET
+  remote: https://wooga.artifactoryonline.com/wooga/api/nuget/sdk-universe
+  specs:
+    Wooga.VSCode (2.6.0)
